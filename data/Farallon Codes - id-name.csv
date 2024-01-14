@@ -1,0 +1,72 @@
+BRPE,Brown Pelican,bird
+BRCO,Brandt,bird
+PALO,Pacific Loon,bird
+BFAL,Black-footed Albatross,bird
+NOFU,Northern Fulmar,bird
+STSH,Short-tailed Shearwater,bird
+BVSH,Black-vented Shearwater,bird
+LHSP,Leach,bird
+FTSP,Fork-tailed Storm-Petrel,bird
+PECO,Pelagic Cormorant,bird
+RTLO,Red-throated Loon,bird
+REPH,Red Phalarope,bird
+RNPL,Red-necked Phalarope,bird
+EAGR,Eared Grebe,bird
+WEGR,Western Grebe,bird
+CLGR,Clarks Grebe,bird
+POJA,Pomarine Jaeger,bird
+LTJA,Long-tailed Jaeger,bird
+HEEG,Heermann's Gull,bird
+HEGU,Herring Gull,bird
+GWGU,Glaucus-winged Gull,bird
+WEGU,Western Gull,bird
+CAGU,California Gull,bird
+BOGU,Bonaparte,bird
+ROTE,Royal Tern,bird
+BLKI,Black-legged Kittiwake,bird
+COMU,Common Murre,bird
+RHAU,Rhinoceros Auklet,bird
+CAAU,Cassins Auklet,bird
+HYGU,Hybrid Gull,bird
+WE/CLGR,Western or Clarks Grebe,bird
+GW/WEGU,Glaucus-winged or Western Gull,bird
+UnID Alcids,Unknown Alcids,bird
+Tern Spp,Tern species,bird
+Jaegar Spp,Jaegar species,bird
+Phal Spp,Phalarope species,bird
+UNCE,unknown dolphin,mammal
+CBWH,Cuviers beaked whale,mammal
+BBWH,Bairds beaked whale or Blainville's beaked whale,mammal
+BLWH,Blue whale,mammal
+FIWH,Fin whale,mammal
+SEWH,Sei whale,mammal
+HUWH,Humpback whale,mammal
+SPWH,Sperm whale,mammal
+MIWH,Minke whale,mammal
+GRWH,Gray whale,mammal
+PSWH,Pygmy sperm whale,mammal
+DSWH,dwarf sperm whale,mammal
+UNWH,Unknown whale,mammal
+KIWH,Killer whale,mammal
+PIWH/SFP,Short finned pilot whale,mammal
+FKWH,False killer whale,mammal
+CODO,Common dolphin,mammal
+LBCD,Long-beaked common dolphin,mammal
+SBCD,Short-beaked common dolphin,mammal
+PWSD,Pacific white-sided dolphin,mammal
+RIDO,Risso's dolphin,mammal
+NRWD,Northern right whale dolphin,mammal
+BODO,Bottlenose dolphin,mammal
+STDO,Striped dolphin,mammal
+UNDO,Unknown dophin,mammal
+CAPO,Dalls porpoise,mammal
+HAPO,Harbor porpoise,mammal
+HASE,Harbor seal,mammal
+CASL,California sea lion,mammal
+GFSE,Guadalupe fur seal,mammal
+NESE,Northern elephant seal,mammal
+NFSE,Northern fur seal,mammal
+UNPI,Unknown pinniped,mammal
+ANMU,Ancient Murrelet,bird
+ARTE,Arctic Tern,bird
+ASSP,Ashy Storm-Petrel,bird
